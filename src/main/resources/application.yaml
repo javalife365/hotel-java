@@ -1,0 +1,12 @@
+server:
+  port: 4040
+
+spring:
+  application:
+    name: hotel-java-api
+
+
+  data:
+    mongodb:
+      url: mongodb+srv://javalife365_db_user:MYmongo2@2@@hoteljava.cj7qq7i.mongodb.net/hoteljava
+      auto-index-creation: true
